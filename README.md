@@ -1,4 +1,3 @@
-# ios101-project2-wordle-starter
 # Project 2 - ios101-project2-wordle-starter
 
 Submitted by: Christopher Meza
